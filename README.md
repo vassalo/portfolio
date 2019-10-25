@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Hi!
 
-You can use the [editor on GitHub](https://github.com/vassalo/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I'm Daniel. A passionate full stack developer with great experience, mainly on Angular, Django and Flutter.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
 
-### Markdown
+I'm currently a college student at the Federal University of Alagoas.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the first half of elementary school I studied at Colégio Batista. After that, I went to Colégio Santa Úrsula, where I spent the rest of elementary school and all of middle school.
 
-```markdown
-Syntax highlighted code block
+### About me
 
-# Header 1
-## Header 2
-### Header 3
+While in middle school, I became a self-taught programmer and I used this knowledge to make scripts for servers of a game called Tibia.
+Then I started visiting some Tibia forums and sharing my knowledge. Thanks to that, one day an admin from a big forum reached out to me and invited me to be part of the forum's staff. I then happily accepted and eventually became one of the top staff members.
 
-- Bulleted
-- List
+### Experience & Projects
 
-1. Numbered
-2. List
+As I said, I started programming in middle school, where I made scripts for Tibia servers. After that I wanted to make my own game, so I began to develop a game on Unity 3D, but I never finished it.
 
-**Bold** and _Italic_ and `Code` text
+But anyway, here are some of my work:
+- A copy of Super Mario Bros, using C programming language;
+- A library management system, using C programming language;
+- A blog to talk about pop culture, using AngularJs and C#;
+- An online shop store, using Angular 2 and Django;
+- A terminal aplication to encrypt and store sensitive text, using C++;
+- A huffman compression and decompression application, using C.
+- A library management web application, using Angular 4 and Django;
+- A payroll system, using Java.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vassalo/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Currently I'm working in partnership with Petrobras, developing some web systems to plan and to monitor oilfields. I've been working on this project for almost 3 years now, using Angular and Django.
